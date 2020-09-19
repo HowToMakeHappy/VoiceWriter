@@ -1,4 +1,4 @@
-# VoiceWriter Privacy Policy
+# Privacy Policy
 
 MiHyun Noh built the VoiceWriter app as a Free app. This SERVICE is provided by MiHyun Noh at no cost and is intended for use as is.
 
